@@ -8,15 +8,15 @@ This program is part of a software package that records keyboard events for late
 
 Source:
 
-'''
+```
 Down: w  TimeRun: 9134ms.
 Up:   w  --TimeDownKey:81ms.
-'''
+```
 
 Result:
 
-'''
+```
 <CodeKey>   <TimeDownKey>   <TimeWait>
 119 81  0
-'''
+```
 
